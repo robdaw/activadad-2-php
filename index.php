@@ -9,7 +9,7 @@
   <body>
 
     <div>
-      <?php echo "Hola mundo"; ?>
+      <?php echo "Hola universo"; ?>
     </div>
 
     </div>
